@@ -147,6 +147,11 @@ Adjust the bloom effect in `App.jsx`:
 
 
 
+https://github.com/user-attachments/assets/926c4448-4bd7-4620-b7d9-5726e4d634da
+
+
+
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
